@@ -53,7 +53,7 @@ Developed a Python-based arithmetic calculator supporting:
 
 The project helped strengthen understanding of conditional statements, loops, user input, data types, operators, and error-handling logic.
 
-🔗 **Project Repository:** `[Add GitHub Link Here]`
+🔗 **Project Repository:** [Python Minor Projects](https://github.com/kalashpriya/Python-Minor-Projects)
 
 ---
 
@@ -74,7 +74,7 @@ Created a relational student database to practice database creation, table desig
 
 The database exercise provided practical experience in storing and retrieving structured information.
 
-🔗 **Project Repository:** `[Add GitHub Link Here]`
+
 
 ---
 
@@ -99,7 +99,7 @@ Worked with Excel for spreadsheet-based data handling, calculations, analysis, a
 * Text manipulation
 
 The advanced work included conditional classification, conditional aggregation, salary calculations, and text concatenation.
-🔗 **Project Repository / Files:** `[Add Link Here]`
+
 
 ---
 
@@ -118,7 +118,7 @@ The project provided practical experience with:
 
 The dashboard focused on booking and revenue data and included visual analysis based on revenue over a date hierarchy.
 
-🔗 **Project Repository:** `https://github.com/kalashpriya/Power-BI-Dashboards`
+🔗 **Project Repository:** [Power BI Dashboards](https://github.com/kalashpriya/Power-BI-Dashboards)
 
 ---
 
@@ -147,7 +147,7 @@ The dataset included features such as area, bedrooms, bathrooms, stories, parkin
 
 The reported R² score indicates that the model explained approximately **45.6% of the variance** represented by the target variable in the documented evaluation.
 
-🔗 **Project Repository:** `[GitHub](https://github.com/kalashpriya/House-Price-Prediction-Machine-Learning-Project)`
+🔗 **Project Repository:** [House Price Prediction](https://github.com/kalashpriya/House-Price-Prediction-Machine-Learning-Project)
 
 ---
 
@@ -177,7 +177,7 @@ The project focused on classifying observations into malignant and benign catego
 
 The documented experiment reported strong classification performance with balanced precision and recall across both classes.
 
-🔗 **Project Repository:** `https://github.com/kalashpriya/Breast-Cancer-Diagnosis-Machine-Learning-Project`
+🔗 **Project Repository:** [Breast Cancer Diagnosis](https://github.com/kalashpriya/Breast-Cancer-Diagnosis-Machine-Learning-Project)
 
 ---
 
