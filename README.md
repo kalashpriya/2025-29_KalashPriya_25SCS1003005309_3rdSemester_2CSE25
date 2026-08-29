@@ -74,7 +74,7 @@ Created a relational student database to practice database creation, table desig
 
 The database exercise provided practical experience in storing and retrieving structured information.
 
-
+🔗 **Project Repository:** [MySQL Projects](https://github.com/kalashpriya/MySQL-Projects)
 
 ---
 
@@ -100,6 +100,7 @@ Worked with Excel for spreadsheet-based data handling, calculations, analysis, a
 
 The advanced work included conditional classification, conditional aggregation, salary calculations, and text concatenation.
 
+🔗 **Project Repository:** [Microsoft Excel](https://github.com/kalashpriya/Microsoft-Excel)
 
 ---
 
