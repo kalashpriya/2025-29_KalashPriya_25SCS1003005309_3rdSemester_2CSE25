@@ -147,7 +147,7 @@ The dataset included features such as area, bedrooms, bathrooms, stories, parkin
 
 The reported R² score indicates that the model explained approximately **45.6% of the variance** represented by the target variable in the documented evaluation.
 
-🔗 **Project Repository:** `(https://github.com/kalashpriya/House-Price-Prediction-Machine-Learning-Project)`
+🔗 **Project Repository:** `[GitHub](https://github.com/kalashpriya/House-Price-Prediction-Machine-Learning-Project)`
 
 ---
 
